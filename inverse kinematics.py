@@ -33,6 +33,5 @@ print(r)
 theta1 = m.atan(r[1]/r[0])
 theta3 = a + theta1 + theta2
 
-print(theta1)
-print(theta2)
-print(theta3)
+print(theta1, theta2, theta3)
+
