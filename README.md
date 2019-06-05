@@ -4,7 +4,7 @@ Talking bullshit for daily catharsis and FUCK the fucking shitty world! Fuck it.
 Everything in the wiki and all rights reserved.
 
 别用那个逆运动学1 那个可鸡儿傻屌了。
-Do not use the inverse kinematics, that program was so fucking stupid and I just don't wanna update it.
+Do not use the inverse kinematics, that program was so fucking stupid and I just don't wanna update it anymore.
 
 今天写了两个不是很傻吊的东西，就是迭代法的逆运动学。
 Today, I've wrote several staffs which aren't that stupid like before, the recursive algorithm of inverse kinematics.
