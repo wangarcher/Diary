@@ -15,6 +15,8 @@ that 2R blahblah is a typical recursive algorithm, you can get only one solution
 后面那个是一个3R平面的，我仔细想了一下这个理论的泛用性，认为他是可以接受这种冗余的，所以也做了。可以得到很多的解，一大堆的解。
 the thing next to it is a planar robot arm with 3R, I've thought about the universality of this algorithm carefully, so I wrote it, too. You can have lot of solutions of it. I really mean it, every time you run it, you would have different solutions.
 
+对不起，我是傻逼，我说错了。那个只能得到一个特解。
+
 感觉精度还是可以，总比那个逆运动学1要精确的多。。。
 I felt like that its accuracy is much better than the shit I've done before.
 
